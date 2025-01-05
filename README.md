@@ -49,3 +49,4 @@ I've also init ed git on the project.
 >> I'll try git hub pages for this. I have set up one of these ages ago, but will now review.
 See how far I get in the next 13 mins.
 (also need to publish my local changes back to gitHub.)
+Pushed local readme to gitHub.
