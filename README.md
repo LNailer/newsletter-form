@@ -56,8 +56,12 @@ Pushed local readme to gitHub.
 I have one, but creating new ones for projects with unique URLs..
 How is this done? Will google next time.
 
+-----------
 07/01/2025 - (Tuesday) 7:25 pm
 Watched a vid on setting up a github page.
 Set up the github page. Took <15 mins.
 Live URL is now at:
 https://lnailer.github.io/newsletter-form/
+
+Have spent 50 mins on this project now.
+----------
