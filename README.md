@@ -50,3 +50,14 @@ I've also init ed git on the project.
 See how far I get in the next 13 mins.
 (also need to publish my local changes back to gitHub.)
 Pushed local readme to gitHub.
+
+8:31 am 
+35 minutes up. Still need to learn how to publish a GitHub page.
+I have one, but creating new ones for projects with unique URLs..
+How is this done? Will google next time.
+
+07/01/2025 - (Tuesday) 7:25 pm
+Watched a vid on setting up a github page.
+Set up the github page. Took <15 mins.
+Live URL is now at:
+https://lnailer.github.io/newsletter-form/
