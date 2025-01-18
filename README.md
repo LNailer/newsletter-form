@@ -66,3 +66,15 @@ https://lnailer.github.io/newsletter-form/
 Have spent 50 mins on this project now.
 
 ----------
+18/01/2025 - (Saturday) 
+took a break to review responsive design.
+Jumping back in now - 8:06 pm.
+
+I'll start with mobile. Grid. The demo piece at 500 px width.
+Float it on white.
+
+At 700 break for the blue bg and introduce the card.
+
+20mins of work - progress made on first mible state.
+I've got correct width. H1, p, list items and a button.
+Good start.
