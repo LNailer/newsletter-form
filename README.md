@@ -75,6 +75,35 @@ Float it on white.
 
 At 700 break for the blue bg and introduce the card.
 
-20mins of work - progress made on first mible state.
+20mins of work - progress made on first mobile state.
 I've got correct width. H1, p, list items and a button.
 Good start.
+
+-------
+19/01/2025 - (Sunday) 6:30 am
+want to get the font right and the image in - working on that now.
+6:43 am - I think I'm good with the fonts now. Will add the image.
+
+7:08 am - got the image in but can't get mobile column to sit right.
+padding margin centre is off.
+margin 0 auto doesn't seem to be working and I'm fighting with divs
+for different variations of not quite right.
+Will take a break then read more.
++ 40m
+
+8:20 am came back, refreshed browser - all looks good.
++ 12mins
+got list updated with custom SVG check marks.
+
+12:39 pm 
+now trying to indent / format list check marks correctly.
+12:59 pm - looking at other examples online, looks like a task
+for flex or grid to get the bullets to be centre aligned and not 
+aligned to the top.
+1:18 pm - got it.
+Put it in a grid - fought with my own typos - naming classes.
+Feeling better with grid. Looks right on point vs design brief.
++ 40m.
+
+====
+1hr 30m on Sunday.
