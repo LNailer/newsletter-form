@@ -107,3 +107,9 @@ Feeling better with grid. Looks right on point vs design brief.
 
 ====
 1hr 30m on Sunday.
+
+===
+Another 35m spent on Sunday.
+Initial design, spacing and colour is more or less perfect
+now for mobile. No form functionality.
+Will for desktop responsive state next, which is 1440px.
