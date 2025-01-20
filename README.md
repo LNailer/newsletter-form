@@ -113,3 +113,9 @@ Another 35m spent on Sunday.
 Initial design, spacing and colour is more or less perfect
 now for mobile. No form functionality.
 Will for desktop responsive state next, which is 1440px.
+
+===
+20/01/2025 - (Monday) 7:52 pm
+just ddid another 40m of good progress
+have got desktop card shape and image positioned.
+need to centre text on the left and add drop shadow.
