@@ -119,3 +119,63 @@ Will for desktop responsive state next, which is 1440px.
 just ddid another 40m of good progress
 have got desktop card shape and image positioned.
 need to centre text on the left and add drop shadow.
+
+===
+6:52 pm 21/01/2025 - (Tuesday)
+just spent 8 mins and found this
+vid
+https://www.youtube.com/watch?v=vgmwEiT1wzc
+Net Ninja walkthrough on form validation
+testing against RegEx.
+He does it for a phone number - I can do
+it using the RegEx rules for an email.
+
+8:45 pm took another 15m
+wrote a regex email validation function
+that I've tested as working in the
+console. Now need to implement with
+the html.
+
+===
+22/01/2025 - (Wednesday) 7:00 am
+15m spent - something wrong w my
+implementation. Next ref to check is
+net ninja regex js implmentation.
+https://github.com/iamshaunjp/regex-playlist/blob/lesson-16/validation.js
+
+5:31 pm just found a 16 line js example on codepen
+https://codepen.io/saigowthamr/pen/bGGzGoZ
+Will give this a go after walking dog.
+
+====
+23/01/2025 - (Thursday) 7:27 am
+
+https://www.youtube.com/watch?v=In0nB0ABaUk
+WDS form validation vid - is ok.
+
+https://www.youtube.com/watch?v=-HeadgoqJ7A
+this one has some nice use of focus styling which feels like good accessibility.
+
+just watched 30mins of form vids. 
+Also looks like brief does *not* require
+things actually being processed with input
+emails being collected or sent to an inbox
+somewhere. Just state/msg changes to show
+error or success for desktop or mobile.
+
+====
+24/01/2025 - (Friday) 7:58 am
+I mucked around with the WDS form from video above. Reproduced parts of it and identified error in my set up.
+I've now got my button set up with prevent
+default and a console log coming through.
+It's a start on the JS.
++40m work this morning.
+
+====
+25/01/2025 - (Saturday) 7:24 am
+Cleaned up my JS.
+The input email is now being returned to the console.
+Now I know that value is captured I can test it with regex.
+- if valid go to success state.
+- if invalid go to error message.
++25m
