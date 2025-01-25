@@ -73,12 +73,26 @@ h1 {
   margin: 0.5rem 0;
 }
 
-.form-label {
+.form-top-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   font-weight: 700;
   font-size: 0.9rem;
-  margin-bottom: 0.4rem;
-  color: hsl(234, 29%, 20%);
+  margin-bottom: -0.4rem;
+  margin-top: 2.5rem;
 }
+
+.form-label {
+  color: hsl(234, 29%, 20%);
+  padding-left: 3px;
+}
+#valid-required {
+  color: hsl(4, 100%, 67%);
+  justify-self: right;
+  padding-right: 3px;
+}
+
+
 
 input {
   width: 100%;
@@ -88,6 +102,12 @@ input {
   border: 0.5px solid hsl(231, 7%, 60%);
   border-radius: 7px;
   margin-bottom: 1.2rem;
+}
+
+.error-state {
+  color: hsl(10, 100%, 67%);
+  background-color: hsl(4, 82%, 89%);
+  border: 1.3px solid hsl(4, 100%, 67%);
 }
 
 .cta-button, .dismiss-button {

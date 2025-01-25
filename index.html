@@ -37,8 +37,12 @@
 
     <form id="form" action="/">
       <div>
-        <p class="form-label">Email address</p>
-          <input type="text" id="email" name="email" placeholder="email@company.com" autocomplete="email">
+        <div class="form-top-row">
+          <p class="form-label">Email address</p>
+          <p id="valid-required" class="hide">Valid email required</p>
+        </div>
+        
+          <input type="text" id="email" class="" name="email" placeholder="email@company.com" autocomplete="email">
           <!-- Fix form bit at end -->
     
         <button class="cta-button" id="submit">
