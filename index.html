@@ -18,7 +18,7 @@
 <body>
 
   <!-- Sign-up form start -->
-  <div class="msg-container">
+  <div id="start-msg" class="msg-container">
     <img src="./assets/images/illustration-sign-up-mobile.svg" alt="Newsletter illustration" class="hero-img">
 
     <div class="desktop-col-1">
@@ -38,7 +38,7 @@
     <form id="form" action="/">
       <div>
         <p class="form-label">Email address</p>
-          <input type="text" id="email" name="email" placeholder="email@company.com">
+          <input type="text" id="email" name="email" placeholder="email@company.com" autocomplete="email">
           <!-- Fix form bit at end -->
     
         <button class="cta-button" id="submit">
@@ -52,15 +52,23 @@
     <!-- Sign-up form end -->
 
   </div>
-  <div class="the-rest">
+<div class="the-rest">
   <!-- Success message start -->
+<div id="happy-msg" class="success-msg hide">
+  <img src="assets/images/icon-list.svg" alt="check mark" class="check-success">
+  <h1>Thanks for subscribing!</h1>
 
-  Thanks for subscribing!
+  <p>A confirmation email has been sent to <span id="valid-email">your email</span>
+    Please open it and click the button inside to confirm your subscription.
+  </p>
 
-  A confirmation email has been sent to ash@loremcompany.com. 
-  Please open it and click the button inside to confirm your subscription.
+  <button onclick="dismiss()" class="dismiss-button" id="dismiss">
+    Dismiss message
+  </button> 
+    
 
-  Dismiss message
+  
+</div>
 
   <!-- Success message end -->
   

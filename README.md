@@ -179,3 +179,39 @@ Now I know that value is captured I can test it with regex.
 - if valid go to success state.
 - if invalid go to error message.
 +25m
+
+side note - getting error msg re fonts - will need to fix that up and 
+double check.
+Also still haven't got drop shadow on cta card at desktop view which is in
+the brief design.
+➤➤ Tasks for later
+- fix fonts
+- add drop shadow
+
+----
+25/01/2025 - (Saturday) 7:52 am
+just spent 10m
+regex now tests and console logs correctly
+on valid or invalid email.
+
+next task to style success state.
+
+5:03 pm I've spent about 
+30m+
+have added styling to success state for mob + desktop
+Have also fixed drop shadow.
+
+Will now fix font.
+
+7:21 pm
+Have now fixed font. Swapped in woff format for ttf that I got from 
+font squirrel.
+https://www.youtube.com/watch?v=KzqQXDbDvus
+Watched some of that Kevin Powell above to get a sense of his 
+preferred practice.
+
+Have also got dissmiss button working.
+Last piece to add would be error state.
+Also possible minor tweaks to intermediate layout styling
+between mobile and desktop. Those two are good, the middle might use
+some spacing adjustments.
