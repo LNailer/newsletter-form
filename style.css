@@ -14,13 +14,13 @@
   font-family: 'Roboto';
   src: url('Roboto-Regular-webfont.woff') format('woff');
   font-weight: 400;
-  font-style: normal; 
+  font-style: normal;
 }
 @font-face {
   font-family: 'Roboto';
   src: url('Roboto-Bold-webfont.woff') format('woff');
   font-weight: 700;
-  font-style: bold; 
+  font-style: bold;
 }
 
 html {
@@ -30,7 +30,6 @@ html {
   box-sizing: inherit;
 }
 body {
-  background-color: hsl(234, 29%, 20%);
   font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -43,7 +42,6 @@ h1 {
   display: none;
 }
 .msg-container {
-  background-color: rgb(255, 255, 255);
   width: 375px;
   padding: 0 1.5rem;
   margin: 0 auto;
@@ -93,6 +91,8 @@ h1 {
   justify-self: right;
   padding-right: 3px;
 }
+
+
 
 input {
   width: 100%;
@@ -148,7 +148,7 @@ input {
 }
 
 
-@media (min-width: 700px) {
+@media (min-width: 70px) {
   body {
     background-color: hsl(234, 29%, 20%);
   }
@@ -189,7 +189,7 @@ input {
   .form-label {
     font-size: 0.9rem;
   }
-  
+
   input {
     font-size: 1.2rem;
   }
@@ -216,16 +216,7 @@ input {
   }
 }
 .attribution {
-  background-color: rgba(247, 198, 156, 0.573);
-  display: block;
-  margin: auto;
-  margin-top: 2rem;
-  margin-bottom: 1.2rem;
-  padding: .3rem;
-  width: 250px;
-  border-radius: .5rem;
-  text-align: center;
-  font-size: .9rem;
+  display: none;
 }
 
 .hide {

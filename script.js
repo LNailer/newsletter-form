@@ -32,4 +32,3 @@ function dismiss(){
   const secondMsg = document.getElementById('happy-msg');
   secondMsg.classList.add('hide');
 }
-
