@@ -216,7 +216,12 @@ input {
   }
 }
 .attribution {
-  display: none;
+  background-color: rgba(247, 198, 156, 0.55);
+  display: block;
+  margin: 2rem auto 1.2rem auto;
+  padding: 0.3rem;
+  width: 250px;
+  border-radius: 0.5rem;
 }
 
 .hide {
